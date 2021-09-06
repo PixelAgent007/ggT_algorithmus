@@ -9,7 +9,12 @@ print("""
  |___/ |___/     |_|    |___/ 
 
 """)
-print("(C) 2021 Oskar Manhart")
+print("""
+Copyright (C) 2021  Oskar Manhart
+This program comes with ABSOLUTELY NO WARRANTY; for details type `cat LICENSE`.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type `cat LICENSE` for details.
+""")
 print("Berechne den größten gemeinsamen Teiler zweier Zahlen.")
 sleep(5)
 a = int(input("A: "))
