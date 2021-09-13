@@ -17,6 +17,7 @@ under certain conditions; type `cat LICENSE` for details.
 """)
 print("Berechne den größten gemeinsamen Teiler zweier Zahlen.")
 sleep(5)
+
 a = int(input("A: "))
 b = int(input("B: "))
 temp1 = a
